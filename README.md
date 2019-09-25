@@ -1,1 +1,1 @@
-# lastm_text_classification
+# Text Classification using LSTM
